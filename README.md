@@ -4,7 +4,7 @@
 </p>
 
 <h3 align="center">
-Ingeniero en Informática · Automatización · Sistemas Industriales
+ Automatización · Soporte TI · DevOps
 </h3>
 
 <p align="center">
@@ -19,7 +19,7 @@ Ingeniero en Informática · Automatización · Sistemas Industriales
 
 ## 👋 Sobre mí
 
-Soy **Gabriel de Jesús García Rivera**, Ingeniero en Informática con enfoque en **automatización de procesos**, **optimización de flujos de trabajo** y **sistemas industriales confiables**.
+Soy **Gabriel de Jesús García Rivera**, Ingeniero en Informática con enfoque en **automatización de procesos**, **optimización de flujos de trabajo** y **soporte TI**.
 
 Me gusta construir soluciones prácticas, medibles y bien documentadas que tengan impacto real en la operación. Disfruto trabajar tanto con software como con sistemas físicos, siempre buscando eficiencia, estabilidad y mejora continua.
 
