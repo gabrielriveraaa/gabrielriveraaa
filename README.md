@@ -4,7 +4,7 @@
 </p>
 
 <h3 align="center">
- Automatización · Soporte TI · DevOps
+ Automatización · Soporte TI · Bakcend
 </h3>
 
 <p align="center">
