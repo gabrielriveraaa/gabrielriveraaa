@@ -1,6 +1,6 @@
 #<!-- ===================== HEADER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A192F&height=180&section=header&text=Gabriel%20García%20Rivera&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A192F&height=180&section=header&text=Gabriel De Jesus%20García%20Rivera&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <h3 align="center">
