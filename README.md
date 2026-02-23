@@ -4,7 +4,7 @@
 </p>
 
 <h3 align="center">
- Automatización · Soporte TI · Backend
+ Automatización · Soporte TI · Monitoreo 
 </h3>
 
 <p align="center">
