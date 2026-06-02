@@ -65,28 +65,3 @@ Soy **Gabriel de Jesús García Rivera**, Ingeniero de **automatización, soport
 </p>
 
 ---
-
-## 🧭 Proyectos y Experiencia Profesional
-
-### 🛰️ Estabilidad de Servicios Satelitales
-**Grafana · NOC · Monitoreo**  
-Implementación de tableros y sensores para el aseguramiento de la cobertura de servicios a nivel nacional.
-
-### 🛠️ Automatización de Infraestructura
-**Python · Bash · Linux**  
-Desarrollo de scripts para la optimización de flujos de trabajo en servidores y redes industriales.
-
----
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=gabrielriveraaa&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gabrielriveraaa&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
----
-<p align="center">
-  <em>“La automatización no reemplaza personas, libera tiempo para pensar mejor.”</em>
-</p>
