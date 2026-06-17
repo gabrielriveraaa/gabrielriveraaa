@@ -20,7 +20,7 @@
 
 ## Sobre mí
 
-Perfil enfocado en gestión, soporte y automatización de infraestructura de redes y servidores operando en entornos NOC. Capacidad para desplegar proyectos de telecomunicaciones a gran escala y optimizar flujos mediante desarrollo de scripts de monitoreo.
+Ingeniero NOC y Soporte en Automatización | Infraestructura de Redes (VPNs, Ruteo, VLANs), Cloud y Monitoreo | Python, Shell, Linux, K8s y AWS
 
 ---
 
@@ -31,6 +31,7 @@ Perfil enfocado en gestión, soporte y automatización de infraestructura de red
 <img src="https://img.shields.io/badge/Linux-Administración-000000?style=for-the-badge&logo=linux&logoColor=white"/>
 <img src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows-server&logoColor=white"/>
 <img src="https://img.shields.io/badge/AWS-EC2_S3_IAM-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Wireshark-167EE6?style=for-the-badge&logo=wireshark&logoColor=white"/>
 </p>
