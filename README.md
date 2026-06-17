@@ -3,17 +3,17 @@
 </p>
 
 <h3 align="center">
- Ingeniero NOC · Soporte · Automatización 
+  Ingeniero NOC · Soporte · Automatización 
 </h3>
 
 <p align="center">
   <a href="mailto:gabrieldjgarciarivera@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contacto-blue?style=flat-square&logo=gmail" />
+    <img src="https://img.shields.io/badge/Email_Contacto-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/gdjrivera" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=flat-square&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn_Perfil-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <img src="https://img.shields.io/badge/Inglés-Técnico%20B1-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/Inglés_Técnico-B1-FF9900?style=for-the-badge&logo=googletranslate&logoColor=white" />
 </p>
 
 ---
@@ -28,9 +28,9 @@ Ingeniero NOC y Soporte en Automatización | Infraestructura de Redes (VPNs, Rut
 
 ### Infraestructura & Redes
 <p>
-<img src="https://img.shields.io/badge/Linux-Administración-000000?style=for-the-badge&logo=linux&logoColor=white"/>
-<img src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows-server&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-EC2_S3_IAM-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Wireshark-167EE6?style=for-the-badge&logo=wireshark&logoColor=white"/>
@@ -41,15 +41,15 @@ Ingeniero NOC y Soporte en Automatización | Infraestructura de Redes (VPNs, Rut
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Shell_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
 <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
-<img src="https://img.shields.io/badge/Ansible-A41F2E?style=for-the-badge&logo=ansible&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub_Actions-CI/CD-2088FF?style=for-the-badge&logo=github-actions"/>
+<img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
 </p>
 
 ### Observabilidad & Datos
 <p>
 <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
 <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
-<img src="https://img.shields.io/badge/PRTG-Monitoring-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PRTG_Network_Monitor-00569C?style=for-the-badge&logo=paessler&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
@@ -58,23 +58,23 @@ Ingeniero NOC y Soporte en Automatización | Infraestructura de Redes (VPNs, Rut
 ## Proyectos Destacados
 
 ### Automatización e Integración de IA para ITSM
-Desarrollo de scripts optimizados e integración de modelos de lenguaje para agilizar el procesamiento en plataformas de mesa de ayuda.
-* **Impacto**: Reducción del tiempo de resolución en tareas operativas, manteniendo niveles óptimos de cumplimiento en ANS.
+Desarrollé scripts optimizados e integré modelos de lenguaje para agilizar el procesamiento en plataformas de mesa de ayuda.
+* **Impacto**: Reduje el tiempo de resolución en tareas operativas, manteniendo niveles óptimos de cumplimiento en ANS.
 * **Tecnologías**: Python, APIs REST.
 
 ### Sistema de Respaldo Centralizado de Red core
-Diseño de flujos de trabajo programados para la extracción periódica y control de versiones de configuraciones de seguridad perimetral.
-* **Impacto**: Respaldo diario automatizado y centralizado de infraestructura de red a nivel nacional.
+Diseñé flujos de trabajo programados para la extracción periódica y control de versiones de configuraciones de seguridad perimetral.
+* **Impacto**: Automaticé el respaldo diario y centralizado de infraestructura de red a nivel nacional.
 * **Tecnologías**: Ansible, Git, Shell.
 
 ### Observabilidad de Telepuertos a Gran Escala
-Implementación de tableros unificados e infraestructura distribuidora de alertas para supervisar hardware crítico.
-* **Impacto**: Monitoreo en tiempo real de métricas operativas clave a través de miles de sensores activos.
+Implementé tableros unificados e infraestructura distribuidora de alertas para supervisar hardware crítico.
+* **Impacto**: Monitoreé en tiempo real métricas operativas clave a través de más de 5,000 sensores activos.
 * **Tecnologías**: Grafana, PRTG, Prometheus.
 
 ### Automatización de Depuración Operativa
-Estructuración de tareas automatizadas en servidores Linux para el procesamiento y depuración continua de archivos de registro.
-* **Impacto**: Liberación de recursos de almacenamiento en servidores de prueba para optimizar análisis de estrés en dispositivos de comunicación.
+Estructuré tareas automatizadas en servidores Linux para el procesamiento y depuración continua de archivos de registro.
+* **Impacto**: Liberé recursos de almacenamiento en servidores de prueba para optimizar análisis de estrés en dispositivos de comunicación.
 * **Tecnologías**: Python, Linux.
 
 ---
@@ -85,27 +85,27 @@ Estructuración de tareas automatizadas en servidores Linux para el procesamient
   <summary><b>StarGO — Ingeniero NOC</b> (Octubre 2025 – Actualidad)</summary>
   <br>
   
-  * **Monitoreo de Infraestructura**: Configuración y administración de sensores de telemetría para asegurar la observabilidad en múltiples telepuertos.
-  * **Automatización de Incidentes**: Reducción en tiempos de respuesta mediante el desarrollo de herramientas de automatización y procesamiento automático de solicitudes operativas.
-  * **Despliegue de Redes**: Coordinación e implementación en campo de infraestructura inalámbrica WAN bajo normativas internacionales.
-  * **Soporte Técnico**: Dirección técnica para el alineamiento de antenas satelitales y aprovisionamiento masivo de firewalls y switches corporativos.
-  * **Respaldo de Configuraciones**: Automatización de respaldos periódicos de configuraciones de red perimetral mediante herramientas de automatización de TI.
+  * **Monitoreo de Infraestructura**: Configuré y administré sensores de telemetría para asegurar la observabilidad en múltiples telepuertos.
+  * **Automatización de Incidentes**: Reduje tiempos de respuesta mediante el desarrollo de herramientas de automatización y procesamiento automático de solicitudes operativas.
+  * **Despliegue de Redes**: Coordiné e implementé en campo 750 sitios RAN/WRAN y 18 megaproyectos de infraestructura bajo normativas internacionales.
+  * **Soporte Técnico**: Dirigí técnicamente el alineamiento de antenas satelitales y aprovisionamiento masivo de firewalls y switches corporativos.
+  * **Respaldo de Configuraciones**: Automaticé respaldos periódicos de configuraciones de red perimetral para más de 200 dispositivos FortiGate mediante Ansible y Git.
 </details>
 
 <details>
-  <summary><b>Lasec Technology Systems — Soporte TI (Pasantía)</b> (Junio 2025 - Octubre 2025)</summary>
+  <summary><b>Lasec Technology Systems — Soporte TI</b> (Junio 2025 - Octubre 2025)</summary>
   <br>
   
-  * **Optimización de Servidores**: Mantenimiento preventivo de almacenamiento mediante scripts de depuración de registros en entornos de servidores Linux.
-  * **Pruebas de Equipos**: Diagnóstico de rendimiento en hardware de telecomunicaciones de corto alcance y auditoría en la sincronización de dispositivos IoT industriales.
+  * **Optimización de Servidores**: Realicé el mantenimiento preventivo de almacenamiento mediante scripts de depuración de registros en entornos de servidores Linux.
+  * **Pruebas de Equipos**: Diagnostiqué el rendimiento en hardware de telecomunicaciones de corto alcance y audité la sincronización de dispositivos IoT industriales.
 </details>
 
 <details>
-  <summary><b>Aptiv Contract Services — Técnico de Mantenimiento</b> (Junio 2019 - Octubre 2025)</summary>
+  <summary><b>Aptiv Contract Services — Técnico de Mantenimiento</b> (Junio 2025 - Octubre 2025)</summary>
   <br>
   
-  * **Conectividad Industrial**: Tendido de cableado e integración de redes de comunicación industrial para conectar equipos a bases de monitoreo unificado.
-  * **Mantenimiento Electromecánico**: Ejecución de rutinas de servicio preventivo y análisis de fallas eléctricas en maquinaria de precisión.
+  * **Conectividad Industrial**: Tendí cableado e integré redes de comunicación industrial para conectar equipos a bases de monitoreo unificado.
+  * **Mantenimiento Electromecánico**: Ejecuté rutinas de servicio preventivo y analicé fallas eléctricas en maquinaria de precisión.
 </details>
 
 ---
