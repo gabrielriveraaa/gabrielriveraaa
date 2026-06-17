@@ -27,25 +27,48 @@ Ingeniero NOC y Soporte en Automatización | Infraestructura de Redes (VPNs, Rut
 ## Competencias Técnicas
 
 ### Infraestructura & Redes
-* **Sistemas Operativos**: Linux (Administración), Windows Server
-* **Cloud & Contenedores**: AWS (EC2, S3, IAM), Docker
-* **Seguridad & Análisis**: Firewalls, Wireshark
-* **Protocolos & Conectividad**: TCP/IP, VLANs, Routing, Switching, VPNs
+<p>
+  <img src="https://img.shields.io/badge/Linux_(Administración)-FCC624?style=flat-square" />
+  <img src="https://img.shields.io/badge/Windows_Server-0078D6?style=flat-square" />
+  <img src="https://img.shields.io/badge/AWS_(EC2,_S3,_IAM)-232F3E?style=flat-square" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square" />
+  <img src="https://img.shields.io/badge/Firewalls-E00707?style=flat-square" />
+  <img src="https://img.shields.io/badge/TCP/IP-00599C?style=flat-square" />
+  <img src="https://img.shields.io/badge/Wireshark-167EE6?style=flat-square" />
+  <img src="https://img.shields.io/badge/VLANs-011E41?style=flat-square" />
+  <img src="https://img.shields.io/badge/Routing-708090?style=flat-square" />
+  <img src="https://img.shields.io/badge/Switching-4682B4?style=flat-square" />
+  <img src="https://img.shields.io/badge/VPNs-E76F51?style=flat-square" />
+</p>
 
 ### Automatización & CI/CD
-* **Lenguajes**: Python, Shell, Go
-* **Integración Continua**: GitHub Actions
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square" />
+  <img src="https://img.shields.io/badge/Shell-4EAA25?style=flat-square" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square" />
+</p>
 
 ### Observabilidad
-* **Monitoreo & Métricas**: Prometheus, PRTG, Grafana
+<p>
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square" />
+  <img src="https://img.shields.io/badge/PRTG-00569C?style=flat-square" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square" />
+</p>
 
 ### Gestión & Datos
-* **Bases de Datos**: PostgreSQL
-* **Plataformas ITSM & Gestión**: Jira, iTop
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square" />
+  <img src="https://img.shields.io/badge/iTop-4B0082?style=flat-square" />
+</p>
 
 ### Modelos de Lenguaje (LLM) & CRM
-* **Inteligencia Artificial**: Fable, R1
-* **Administración Comercial**: Odoo
+<p>
+  <img src="https://img.shields.io/badge/Fable-FF6C37?style=flat-square" />
+  <img src="https://img.shields.io/badge/R1-0000FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Odoo-714B67?style=flat-square" />
+</p>
 
 ---
 
