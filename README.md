@@ -13,7 +13,6 @@
   <a href="https://www.linkedin.com/in/gdjrivera" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <img src="https://img.shields.io/badge/Ingl%C3%A9s_T%C3%A9cnico-B1-FF9900?style=for-the-badge" />
 </p>
 
 ---
