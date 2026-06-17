@@ -13,7 +13,6 @@
   <a href="https://www.linkedin.com/in/gdjrivera" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <img src="https://img.shields.io/badge/Ingl%C3%A9s_T%C3%A9cnico_B1-FF9900?style=for-the-badge" />
 </p>
 
 ---
@@ -49,7 +48,7 @@ Ingeniero NOC y Soporte en Automatización | Infraestructura de Redes (VPNs, Rut
 <p>
 <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
 <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
-<img src="https://img.shields.io/badge/PRTG-Monitoring-00569C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PRTG-00569C?style=for-the-badge&logo=opsgenie&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
@@ -105,7 +104,7 @@ Estructuré tareas automatizadas en servidores Linux para el procesamiento y dep
   <br>
   
   * **Conectividad Industrial**: Tendí cableado e integré redes de comunicación industrial para conectar equipos a bases de monitoreo unificado.
-  * **Mantenimiento Electromecánico**: Ejecuté rutinas de servicio preventivo y analicé fallas eléctricas en maquinaria de precisión.
+  * **Mantenimiento Electromecánico**: Ejecuté rutinas de servicio preventivo y analizé fallas eléctricas en maquinaria de precisión.
 </details>
 
 ---
