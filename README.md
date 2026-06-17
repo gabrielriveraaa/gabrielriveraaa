@@ -13,7 +13,6 @@
   <a href="https://www.linkedin.com/in/gdjrivera" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=flat-square&logo=linkedin" />
   </a>
-  <img src="https://img.shields.io/badge/Ubicación-Zacatecas,%20México-green?style=flat-square&logo=google-maps" />
   <img src="https://img.shields.io/badge/Inglés-Técnico%20B1-orange?style=flat-square" />
 </p>
 
