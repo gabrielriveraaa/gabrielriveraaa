@@ -13,7 +13,7 @@
   <a href="https://www.linkedin.com/in/gdjrivera" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <img src="https://img.shields.io/badge/Ingl%C3%A9s_T%C3%A9cnico-B1-FF9900?style=for-the-badge&logo=google-translate&logoColor=white" />
+  <img src="https://img.shields.io/badge/Inglés_Técnico-B1-FF9900?style=for-the-badge" />
 </p>
 
 ---
@@ -28,15 +28,17 @@ Ingeniero NOC y Soporte en Automatización | Infraestructura de Redes (VPNs, Rut
 
 ### Infraestructura & Redes
 <p>
-<img src="https://img.shields.io/badge/Linux_Administración-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 <img src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows-server&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS_(EC2_S3_IAM)-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Firewalls-E00707?style=for-the-badge&logo=fortinet&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firewalls-E00707?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/TCP_IP-00599C?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Wireshark-167EE6?style=for-the-badge&logo=wireshark&logoColor=white"/>
-<img src="https://img.shields.io/badge/TCP/IP_&_Redes-00599C?style=for-the-badge&logo=cisco&logoColor=white"/>
-<img src="https://img.shields.io/badge/VLANs_&_Routing-011E41?style=for-the-badge&logo=junipernetworks&logoColor=white"/>
-<img src="https://img.shields.io/badge/Switching_&_VPNs-708090?style=for-the-badge&logo=openvpn&logoColor=white"/>
+<img src="https://img.shields.io/badge/VLANs-011E41?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Routing-708090?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Switching-4682B4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/VPNs-E76F51?style=for-the-badge"/>
 </p>
 
 ### Automatización & CI/CD
@@ -50,7 +52,7 @@ Ingeniero NOC y Soporte en Automatización | Infraestructura de Redes (VPNs, Rut
 ### Observabilidad
 <p>
 <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
-<img src="https://img.shields.io/badge/PRTG_Network_Monitor-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/PRTG-00569C?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
 </p>
 
@@ -58,14 +60,14 @@ Ingeniero NOC y Soporte en Automatización | Infraestructura de Redes (VPNs, Rut
 <p>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
-<img src="https://img.shields.io/badge/iTop_ITSM-4B0082?style=for-the-badge&logo=statuspage&logoColor=white"/>
+<img src="https://img.shields.io/badge/iTop-4B0082?style=for-the-badge"/>
 </p>
 
 ### Modelos de Lenguaje (LLM) & CRM
 <p>
-<img src="https://img.shields.io/badge/Fable_AI-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-<img src="https://img.shields.io/badge/DeepSeek_R1-0000FF?style=for-the-badge&logo=probot&logoColor=white"/>
-<img src="https://img.shields.io/badge/Odoo_CRM-714B67?style=for-the-badge&logo=odoo&logoColor=white"/>
+<img src="https://img.shields.io/badge/Fable-FF6C37?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/R1-0000FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white"/>
 </p>
 
 ---
