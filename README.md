@@ -116,8 +116,8 @@ Estructuré tareas automatizadas en servidores Linux para el procesamiento y dep
 | :--- | :--- | :---: |
 | **Licenciatura en Ingeniería Informática** | Instituto Tecnológico de Zacatecas | Graduado |
 | Google IT Support Professional Certificate | Google Career | [Verificar](https://www.coursera.org/account/accomplishments/specialization/certificate/7NWKOMPIEO77) |
-| Google IT Automation with Python (System Administration) | Google Career | [Verificar](https://www.coursera.org/account/accomplishments/verify/Y6FL4SRJLZ3A) |
-| Crash Course on Python | Google Career | [Verificar](https://www.coursera.org/account/accomplishments/verify/2HA6IV5TIZXY) |
+| System Administration and IT Infrastructure Services | Google Career | [Verificar](https://www.coursera.org/account/accomplishments/verify/Y6FL4SRJLZ3A) |
+| Architecting Solutions on AWS | AWS | [Verificar](https://www.coursera.org/account/accomplishments/verify/2HA6IV5TIZXY) |
 | Programming in Python | Meta | [Verificar](https://www.coursera.org/account/accomplishments/verify/ORCR76PRMTRH) |
 | Docker: A Developer Specialization | IBM Skills Network | [Verificar](https://courses.cognitiveclass.ai/certificates/e4ab8710aabb40ec88f4e983a57aebbd) |
 | Linux Kernel Development (LFD103) | Linux Foundation | [Verificar](https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/2e21ce8f-eafa-40be-9140-c694a7b3e5c8-gabriel-de-jesus-garcia-rivera-354f5a4b-6aea-4ce8-a626-b97fbaf13d0c-certificate.pdf) |
