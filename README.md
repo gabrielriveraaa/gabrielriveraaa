@@ -20,7 +20,8 @@
 
 ## Sobre mí
 
-Ingeniero NOC con enfoque en automatización y soporte de infraestructura. Experiencia en redes (VPNs, ruteo, VLANs), cloud y monitoreo. Manejo de herramientas como Python, Shell, Linux, Kubernetes y AWS para optimizar operaciones y mantener entornos estables y escalables.
+Ingeniero NOC especializado en automatización y soporte de infraestructura. Trabajo con redes (VPNs, ruteo, VLANs), cloud y monitoreo, usando Python, Shell, Linux, Kubernetes y AWS para mantener entornos estables y eficientes.
+
 ---
 
 ## Competencias Técnicas
@@ -57,23 +58,23 @@ Ingeniero NOC con enfoque en automatización y soporte de infraestructura. Exper
 ## Proyectos Destacados
 
 ### Automatización e Integración de IA para ITSM
-Desarrollé scripts optimizados e integré modelos de lenguaje para agilizar el procesamiento en plataformas de mesa de ayuda.
-* **Impacto**: Reduje el tiempo de resolución en tareas operativas, manteniendo niveles óptimos de cumplimiento en ANS.
+Desarrolló scripts optimizados e integró modelos de lenguaje para agilizar el procesamiento en plataformas de mesa de ayuda.
+* **Impacto**: Reducción del tiempo de resolución en tareas operativas, manteniendo niveles óptimos de cumplimiento en ANS.
 * **Tecnologías**: Python, APIs REST.
 
-### Sistema de Respaldo Centralizado de Red core
-Diseñé flujos de trabajo programados para la extracción periódica y control de versiones de configuraciones de seguridad perimetral.
-* **Impacto**: Automaticé el respaldo diario y centralizado de infraestructura de red a nivel nacional.
+### Sistema de Respaldo Centralizado de Red Core
+Diseñó flujos de trabajo programados para la extracción periódica y control de versiones de configuraciones de seguridad perimetral.
+* **Impacto**: Automatización del respaldo diario y centralizado de infraestructura de red a nivel nacional.
 * **Tecnologías**: Ansible, Git, Shell.
 
 ### Observabilidad de Telepuertos a Gran Escala
-Implementé tableros unificados e infraestructura distribuidora de alertas para supervisar hardware crítico.
-* **Impacto**: Monitoreé en tiempo real métricas operativas clave a través de más de 5,000 sensores activos.
+Implementó tableros unificados e infraestructura distribuidora de alertas para supervisar hardware crítico.
+* **Impacto**: Monitoreo en tiempo real de métricas operativas clave a través de más de 5,000 sensores activos.
 * **Tecnologías**: Grafana, PRTG, Prometheus.
 
 ### Automatización de Depuración Operativa
-Estructuré tareas automatizadas en servidores Linux para el procesamiento y depuración continua de archivos de registro.
-* **Impacto**: Liberé recursos de almacenamiento en servidores de prueba para optimizar análisis de estrés en dispositivos de comunicación.
+Estructuró tareas automatizadas en servidores Linux para el procesamiento y depuración continua de archivos de registro.
+* **Impacto**: Liberación de recursos de almacenamiento en servidores de prueba para optimizar análisis de estrés en dispositivos de comunicación.
 * **Tecnologías**: Python, Linux.
 
 ---
@@ -84,27 +85,27 @@ Estructuré tareas automatizadas en servidores Linux para el procesamiento y dep
   <summary><b>StarGO — Ingeniero NOC</b> (Octubre 2025 – Actualidad)</summary>
   <br>
   
-  * **Monitoreo de Infraestructura**: Configuré y administré sensores de telemetría para asegurar la observabilidad en múltiples telepuertos.
-  * **Automatización de Incidentes**: Reduje tiempos de respuesta mediante el desarrollo de herramientas de automatización y procesamiento automático de solicitudes operativas.
-  * **Despliegue de Redes**: Coordiné e implementé en campo 750 sitios RAN/WRAN y 18 megaproyectos de infraestructura bajo normativas internacionales.
-  * **Soporte Técnico**: Dirigí técnicamente el alineamiento de antenas satelitales y aprovisionamiento masivo de firewalls y switches corporativos.
-  * **Respaldo de Configuraciones**: Automaticé respaldos periódicos de configuraciones de red perimetral para más de 200 dispositivos FortiGate mediante Ansible y Git.
+  * **Monitoreo de Infraestructura**: Configuración y administración de sensores de telemetría para asegurar la observabilidad en múltiples telepuertos.
+  * **Automatización de Incidentes**: Reducción de tiempos de respuesta mediante el desarrollo de herramientas de automatización y procesamiento automático de solicitudes operativas.
+  * **Despliegue de Redes**: Coordinación e implementación en campo de 750 sitios RAN/WRAN y 18 megaproyectos de infraestructura bajo normativas internacionales.
+  * **Soporte Técnico**: Dirección técnica del alineamiento de antenas satelitales y aprovisionamiento masivo de firewalls y switches corporativos.
+  * **Respaldo de Configuraciones**: Automatización de respaldos periódicos de configuraciones de red perimetral para más de 200 dispositivos FortiGate mediante Ansible y Git.
 </details>
 
 <details>
   <summary><b>Lasec Technology Systems — Soporte TI</b> (Junio 2025 - Octubre 2025)</summary>
   <br>
   
-  * **Optimización de Servidores**: Realicé el mantenimiento preventivo de almacenamiento mediante scripts de depuración de registros en entornos de servidores Linux.
-  * **Pruebas de Equipos**: Diagnostiqué el rendimiento en hardware de telecomunicaciones de corto alcance y audité la sincronización de dispositivos IoT industriales.
+  * **Optimización de Servidores**: Realización del mantenimiento preventivo de almacenamiento mediante scripts de depuración de registros en entornos de servidores Linux.
+  * **Pruebas de Equipos**: Diagnóstico del rendimiento en hardware de telecomunicaciones de corto alcance y auditoría de la sincronización de dispositivos IoT industriales.
 </details>
 
 <details>
   <summary><b>Aptiv Contract Services — Técnico de Mantenimiento</b> (Junio 2025 - Octubre 2025)</summary>
   <br>
   
-  * **Conectividad Industrial**: Tendí cableado e integré redes de comunicación industrial para conectar equipos a bases de monitoreo unificado.
-  * **Mantenimiento Electromecánico**: Ejecuté rutinas de servicio preventivo y analizé fallas eléctricas en maquinaria de precisión.
+  * **Conectividad Industrial**: Tendido de cableado e integración de redes de comunicación industrial para conectar equipos a bases de monitoreo unificado.
+  * **Mantenimiento Electromecánico**: Ejecución de rutinas de servicio preventivo y análisis de fallas eléctricas en maquinaria de precisión.
 </details>
 
 ---
