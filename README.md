@@ -66,6 +66,7 @@ Desarrolló scripts optimizados e integró modelos de lenguaje para agilizar el 
 Diseñó flujos de trabajo programados para la extracción periódica y control de versiones de configuraciones de seguridad perimetral.
 * **Impacto**: Automatización del respaldo diario y centralizado de infraestructura de red a nivel nacional.
 * **Tecnologías**: Ansible, Git, Shell.
+* [Ver repositorio en GitHub](https://github.com/gdjrivera/CoreNet-Sentinel.git) 
 
 ### Observabilidad de Telepuertos a Gran Escala
 Implementó tableros unificados e infraestructura distribuidora de alertas para supervisar hardware crítico.
