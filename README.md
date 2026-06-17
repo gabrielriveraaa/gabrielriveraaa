@@ -100,7 +100,7 @@ Estructuró tareas automatizadas en servidores Linux para el procesamiento y dep
 </details>
 
 <details>
-  <summary><b>Aptiv Contract Services — Técnico de Mantenimiento</b> (Junio 2025 - Octubre 2025)</summary>
+  <summary><b>Aptiv Contract Services — Técnico de Mantenimiento</b> (Junio 2019 - Octubre 2025)</summary>
   <br>
   
   * **Conectividad Industrial**: Tendido de cableado e integración de redes de comunicación industrial para conectar equipos a bases de monitoreo unificado.
