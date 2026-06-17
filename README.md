@@ -77,7 +77,7 @@ Implementó tableros unificados e infraestructura distribuidora de alertas para 
 Estructuró tareas automatizadas en servidores Linux para el procesamiento y depuración continua de archivos de registro.
 * **Impacto**: Liberación de recursos de almacenamiento en servidores de prueba para optimizar análisis de estrés en dispositivos de comunicación.
 * **Tecnologías**: Python, Linux.
-
+* [Ver repositorio en GitHub](https://github.com/gdjrivera/MineShut)  
 ---
 
 ## Experiencia Profesional
