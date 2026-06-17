@@ -60,7 +60,7 @@ Ingeniero NOC especializado en automatización y soporte de infraestructura. Tra
 Desarrolló scripts optimizados e integró modelos de lenguaje para agilizar el procesamiento en plataformas de mesa de ayuda.
 * **Impacto**: Reducción del tiempo de resolución en tareas operativas, manteniendo niveles óptimos de cumplimiento en ANS.
 * **Tecnologías**: Python, APIs REST.
-*[text](https://github.com/gdjrivera/itsm-ai-automation)
+* [Ver repositorio en GitHub](https://github.com/gdjrivera/itsm-ai-automation)
 
 ### Sistema de Respaldo Centralizado de Red Core
 Diseñó flujos de trabajo programados para la extracción periódica y control de versiones de configuraciones de seguridad perimetral.
