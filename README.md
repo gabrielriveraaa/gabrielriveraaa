@@ -75,7 +75,7 @@ Implementó tableros unificados e infraestructura distribuidora de alertas para 
 
 ### Automatización de Reinicios Masivos de CPE
 Implementé un scripts que orquestaron rebotes remotos de equipos de usuario final desde una plataforma web interna, eliminando la intervención manual en procesos de mantenimiento correctivo.
-* **Impacto**: Reducción de ~18 horas de trabajo operativo semanal; procesamiento de hasta 170 equipos por corrida con verificación de estado y validación post-reinicio.
+* **Impacto**: Reducción de ~18 horas de trabajo operativo semanal; procesamiento de hasta 3000 equipos por corrida con verificación de estado y validación post-reinicio.
 * **Tecnologías**: Selenium, Brave, Angular, XPATH Dinámico.
 
 ### Automatización de Depuración Operativa
