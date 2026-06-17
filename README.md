@@ -73,6 +73,11 @@ Implementó tableros unificados e infraestructura distribuidora de alertas para 
 * **Impacto**: Monitoreo en tiempo real de métricas operativas clave a través de más de 5,000 sensores activos.
 * **Tecnologías**: Grafana, PRTG, Prometheus.
 
+### Automatización de Reinicios Masivos de CPE
+Implementé un scripts que orquestaron rebotes remotos de equipos de usuario final desde una plataforma web interna, eliminando la intervención manual en procesos de mantenimiento correctivo.
+* **Impacto**: Reducción de ~18 horas de trabajo operativo semanal; procesamiento de hasta 170 equipos por corrida con verificación de estado y validación post-reinicio.
+* **Tecnologías**: Selenium, Brave, Angular, XPATH Dinámico.
+
 ### Automatización de Depuración Operativa
 Estructuró tareas automatizadas en servidores Linux para el procesamiento y depuración continua de archivos de registro.
 * **Impacto**: Liberación de recursos de almacenamiento en servidores de prueba para optimizar análisis de estrés en dispositivos de comunicación.
