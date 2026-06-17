@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="mailto:gabrieldjgarciarivera@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contacto-blue?style=flat-square&logo=gmail" />
+    <img src="https://img.skills.io/badge/Email-Contacto-blue?style=flat-square&logo=gmail" />
   </a>
   <a href="https://www.linkedin.com/in/gdjrivera" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=flat-square&logo=linkedin" />
