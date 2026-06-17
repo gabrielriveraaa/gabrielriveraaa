@@ -20,8 +20,7 @@
 
 ## Sobre mí
 
-Ingeniero NOC y Soporte en Automatización | Infraestructura de Redes (VPNs, Ruteo, VLANs), Cloud y Monitoreo | Python, Shell, Linux, K8s y AWS.
-
+Ingeniero NOC con enfoque en automatización y soporte de infraestructura. Experiencia en redes (VPNs, ruteo, VLANs), cloud y monitoreo. Manejo de herramientas como Python, Shell, Linux, Kubernetes y AWS para optimizar operaciones y mantener entornos estables y escalables.
 ---
 
 ## Competencias Técnicas
